@@ -1,5 +1,5 @@
 name: ScoreboardsPE
 main: Miste\scoreboardspe\ScoreboardsPE
-api: 3.0.0
+api: 1.12.0
 version: 2.0.1
 load: STARTUP
